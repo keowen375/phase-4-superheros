@@ -73,7 +73,7 @@ To use this repo on your machine requires some simple steps
 - Be patient as it creates a copy on your local machine for you.
 - Change directory to the repo folder:
 
-        cd phase-4-wk2-code-challenge-superheroes
+        cd phase-4-superheros
 
 - (Optional) Open it in ``Visual Studio Code``
 
