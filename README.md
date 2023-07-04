@@ -68,7 +68,7 @@ To use this repo on your machine requires some simple steps
 - Open a terminal / command line interface on your computer
 - Clone the repo by using the following:
 
-        git@github.com:Sammy-CK/phase-4-wk2-code-challenge-superheroes.git
+        git@github.com:keowen375/phase-4-superheros.git
 
 - Be patient as it creates a copy on your local machine for you.
 - Change directory to the repo folder:
